@@ -100,3 +100,7 @@ The implications of our final model evaluation are significant. Stakeholders, in
 4. Customize your marketing campaigns based on sentiment trends. Capitalize on positive sentiment by amplifying the aspects that resonate well with your audience, and address any negative feedback to improve your messaging and product offerings.
 
 5. Actively engage with users on social media platforms. Respond to both positive and negative comments to enhance overall customer satisfaction. Transforming negative sentiment into positive experiences can significantly improve brand loyalty and customer relationships.
+
+## Presentation
+
+Presentation slides found [here](https://www.canva.com/design/DAFurhpNMtg/MpLGL8vOt2wIw05D6SulaA/edit?utm_content=DAFurhpNMtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
